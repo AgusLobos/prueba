@@ -31,4 +31,4 @@ const productosEnVenta = [
     
 console.log(iterarProductos(productosEnVenta))
 
-console.log("perro")
+console.log("gato")
