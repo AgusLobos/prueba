@@ -30,3 +30,5 @@ const productosEnVenta = [
     }
     
 console.log(iterarProductos(productosEnVenta))
+
+console.log("hola")
