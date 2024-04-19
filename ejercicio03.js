@@ -1,4 +1,4 @@
-const productos = ["Monitor", "Teclado", "Mouse", "Auriculares",
+oconst productos = ["Monitor", "Teclado", "Mouse", "Auriculares",
  "Altavoces", "Micrófono", "Webcam", "Disco Rígido", "SSD",
  "Tarjeta Gráfica", "Microprocesador", "Memoria RAM", "Fuente",
 "Fan Cooler", "Motherboard"];
@@ -31,4 +31,4 @@ const productosEnVenta = [
     
 console.log(iterarProductos(productosEnVenta))
 
-console.log("hola")
+console.log("perro")
