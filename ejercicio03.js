@@ -1,4 +1,4 @@
-oconst productos = ["Monitor", "Teclado", "Mouse", "Auriculares",
+const productos = ["Monitor", "Teclado", "Mouse", "Auriculares",
  "Altavoces", "Micrófono", "Webcam", "Disco Rígido", "SSD",
  "Tarjeta Gráfica", "Microprocesador", "Memoria RAM", "Fuente",
 "Fan Cooler", "Motherboard"];
